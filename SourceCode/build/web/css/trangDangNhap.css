@@ -1,0 +1,60 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 14, 2024, 1:55:21 PM
+    Author     : PC
+*/
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.login-box {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.login-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.login-box .btn-login {
+    background-color: #28a745;
+    color: white;
+    border: none;
+}
+
+.login-box .btn-login:hover {
+    background-color: #218838;
+}
+
+.login-box .text-link {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.login-box .text-link a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.login-box .text-link a:hover {
+    text-decoration: underline;
+}
+
+.input-group-text {
+    cursor: pointer;
+}
