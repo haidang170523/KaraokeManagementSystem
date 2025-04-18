@@ -1,6 +1,5 @@
 # Hệ thống quản lý Karaoke
 
-![Banner](https://via.placeholder.com/800x200.png?text=Karaoke+Management+System)  
 *Một ứng dụng web để tự động hóa quản lý quán Karaoke, tối ưu hóa quy trình và nâng cao hiệu quả kinh doanh.*
 
 ---
