@@ -113,9 +113,9 @@ Vui lòng tham khảo [CONTRIBUTING.md](CONTRIBUTING.md) để biết chi tiết
 
 ## Liên hệ
 
-- **Tác giả**: [Tên bạn]
-- **Email**: [email của bạn]
-- **GitHub**: [username của bạn]
+- **Tác giả**: Hải Đăng
+- **Email**: sorrydang2k3@gmail.com
+- **GitHub**: haidang170523
 
 Nếu bạn có câu hỏi hoặc muốn thảo luận về dự án, hãy mở một issue trên GitHub hoặc liên hệ trực tiếp!
 
