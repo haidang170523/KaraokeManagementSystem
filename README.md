@@ -117,9 +117,3 @@ Vui lòng tham khảo [CONTRIBUTING.md](CONTRIBUTING.md) để biết chi tiết
 - **GitHub**: haidang170523
 
 Nếu bạn có câu hỏi hoặc muốn thảo luận về dự án, hãy mở một issue trên GitHub hoặc liên hệ trực tiếp!
-
----
-
-## Giấy phép
-
-Dự án được phát hành theo [MIT License](LICENSE).
